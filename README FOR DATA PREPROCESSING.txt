@@ -1,0 +1,6 @@
+Used Pandas and Tkinter in Python to preprocess data. I developed a GUI application that is interactive for users in this project.
+Select a CSV file: The application's user-friendly interface asks users to choose a CSV file for examination. 
+Choose Columns for Analysis: For a variety of preprocessing methods, users can select particular columns from the dataset. 
+Examine and Visualize the Dataset: The program lets users see a detailed overview of the dataset they have chosen.Utilize Various Imputation Techniques: Users are able to utilize imputation techniques such as drop, mean, median, forward fill, backward fill, and K-nearest neighbors (KNN).
+Verify Null Values: The program helps users find and fix missing data by providing a thorough examination of null values.
+Save Processed Data: Users can save the cleaned data to a new CSV file after using the preferred preprocessing methods. This project uses a graphical interface to improve user experience while showcasing the capabilities of Python for data preparation tasks. It's a useful tool for anyone trying to make their data cleansing procedure go more quickly.
